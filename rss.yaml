@@ -1,12 +1,16 @@
-- url: "https://www.monkeyuser.com/feed.xml"
-  title: "MonkeyUser"
-  custom_message: "Update from MonkeyUser"
-  chat_id: "News4Mehdy"
-- url: "https://labs.spotify.com/feed/"
-  title: "Spotify Engineering"
-  custom_message: "Update from Spotify Engineering"
-  chat_id: "News4Mehdy"
-- url: "https://waitbutwhy.com/feed"
-  title: "Wait But Why"
-  custom_message: "Update from Wait But Why"
-  chat_id: "News4Mehdy"
+- url: https://www.monkeyuser.com/feed.xml
+  title: MonkeyUser
+  custom_message: Update from MonkeyUser
+  chat_id: News4Mehdy
+- url: https://labs.spotify.com/feed/
+  title: Spotify Engineering
+  custom_message: Update from Spotify Engineering
+  chat_id: News4Mehdy
+- url: https://waitbutwhy.com/feed
+  title: Wait But Why
+  custom_message: Update from Wait But Why
+  chat_id: News4Mehdy
+- url: http://www.pointer.io/rss/
+  title: Pointer
+  custom_message: Update from Pointer
+  chat_id: News4Mehdy
