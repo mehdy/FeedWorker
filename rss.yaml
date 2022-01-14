@@ -14,3 +14,7 @@
   title: Pointer
   custom_message: Update from Pointer
   chat_id: News4Mehdy
+- url: https://cprss.s3.amazonaws.com/golangweekly.com.xml
+  title: Golang Weekly
+  custom_message: Update from Golang Weekly
+  chat_id: News4Mehdy
