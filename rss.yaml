@@ -18,3 +18,7 @@
   title: Golang Weekly
   custom_message: Update from Golang Weekly
   chat_id: News4Mehdy
+- url: https://cprss.s3.amazonaws.com/javascriptweekly.com.xml
+  title: Javascript Weekly
+  custom_message: Update from Javascript Weekly
+  chat_id: News4Mehdy
