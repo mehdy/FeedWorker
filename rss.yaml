@@ -10,10 +10,10 @@
   title: Wait But Why
   custom_message: Update from Wait But Why
   chat_id: News4Mehdy
-  # - url: http://www.pointer.io/rss/
-  #   title: Pointer
-  #   custom_message: Update from Pointer
-  #   chat_id: News4Mehdy
+- url: http://www.pointer.io/rss/
+  title: Pointer
+  custom_message: Update from Pointer
+  chat_id: News4Mehdy
 - url: https://cprss.s3.amazonaws.com/golangweekly.com.xml
   title: Golang Weekly
   custom_message: Update from Golang Weekly
