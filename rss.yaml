@@ -34,3 +34,7 @@
   title: Programmer Weekly
   custom_message: Update from Programmer Weekly
   chat_id: News4Mehdy
+- url: https://buttondown.email/cassidoo/rss
+  title: rendezvous with cassidoo
+  custom_message: Update from Cassidy
+  chat_id: News4Mehdy
